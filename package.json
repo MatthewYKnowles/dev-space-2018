@@ -1,0 +1,16 @@
+{
+  "name": "dev-space-2018",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "karma start",
+    "stryker": "stryker run",
+    "stryker:init": "stryker init"
+  },
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "karma": "^3.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2"
+  }
+}
